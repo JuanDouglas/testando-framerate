@@ -1,0 +1,10 @@
+C:\Users\juand\source\repos\Testando Framerates\bin\Debug\Testando Framerates.exe.config
+C:\Users\juand\source\repos\Testando Framerates\bin\Debug\Testando Framerates.exe
+C:\Users\juand\source\repos\Testando Framerates\bin\Debug\Testando Framerates.pdb
+C:\Users\juand\source\repos\Testando Framerates\obj\Debug\Testando Framerates.csprojAssemblyReference.cache
+C:\Users\juand\source\repos\Testando Framerates\obj\Debug\Testando_Framerates.Form1.resources
+C:\Users\juand\source\repos\Testando Framerates\obj\Debug\Testando_Framerates.Properties.Resources.resources
+C:\Users\juand\source\repos\Testando Framerates\obj\Debug\Testando Framerates.csproj.GenerateResource.cache
+C:\Users\juand\source\repos\Testando Framerates\obj\Debug\Testando Framerates.csproj.CoreCompileInputs.cache
+C:\Users\juand\source\repos\Testando Framerates\obj\Debug\Testando Framerates.exe
+C:\Users\juand\source\repos\Testando Framerates\obj\Debug\Testando Framerates.pdb
